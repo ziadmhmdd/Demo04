@@ -9,7 +9,7 @@ namespace OOP04
     internal class Program
     {
         static void Main()
-        {
+        { 
             #region Abstraction 
             // Abstraction : التجريد 
             // abstract : C# Keyword بتستخدم مع [class - methods - properties]
